@@ -1,0 +1,14 @@
+D:\Repository\WinSCPProject\WinSCPPr\WinSCPPr\bin\Debug\WinSCP.exe
+D:\Repository\WinSCPProject\WinSCPPr\WinSCPPr\bin\Debug\WinSCPPr.exe
+D:\Repository\WinSCPProject\WinSCPPr\WinSCPPr\bin\Debug\WinSCPPr.pdb
+D:\Repository\WinSCPProject\WinSCPPr\WinSCPPr\bin\Debug\WinSCPnet.dll
+D:\Repository\WinSCPProject\WinSCPPr\WinSCPPr\obj\Debug\WinSCPPr.csprojResolveAssemblyReference.cache
+D:\Repository\WinSCPProject\WinSCPPr\WinSCPPr\obj\Debug\WinSCPPr.exe
+D:\Repository\WinSCPProject\WinSCPPr\WinSCPPr\obj\Debug\WinSCPPr.pdb
+D:\Repository\EKG\WinSCPPr\bin\Debug\WinSCP.exe
+D:\Repository\EKG\WinSCPPr\bin\Debug\WinSCPPr.exe
+D:\Repository\EKG\WinSCPPr\bin\Debug\WinSCPPr.pdb
+D:\Repository\EKG\WinSCPPr\bin\Debug\WinSCPnet.dll
+D:\Repository\EKG\WinSCPPr\obj\Debug\WinSCPPr.csprojResolveAssemblyReference.cache
+D:\Repository\EKG\WinSCPPr\obj\Debug\WinSCPPr.exe
+D:\Repository\EKG\WinSCPPr\obj\Debug\WinSCPPr.pdb
