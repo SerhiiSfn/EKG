@@ -12,3 +12,11 @@ D:\Repository\EKG\WinSCPPr\bin\Debug\WinSCPnet.dll
 D:\Repository\EKG\WinSCPPr\obj\Debug\WinSCPPr.csprojResolveAssemblyReference.cache
 D:\Repository\EKG\WinSCPPr\obj\Debug\WinSCPPr.exe
 D:\Repository\EKG\WinSCPPr\obj\Debug\WinSCPPr.pdb
+D:\Rep\Dell\EKG\WinSCPPr\bin\Debug\WinSCP.exe
+D:\Rep\Dell\EKG\WinSCPPr\bin\Debug\WinSCPPr.exe
+D:\Rep\Dell\EKG\WinSCPPr\bin\Debug\WinSCPPr.pdb
+D:\Rep\Dell\EKG\WinSCPPr\bin\Debug\WinSCPnet.dll
+D:\Rep\Dell\EKG\WinSCPPr\obj\Debug\WinSCPPr.csprojAssemblyReference.cache
+D:\Rep\Dell\EKG\WinSCPPr\obj\Debug\WinSCPPr.csproj.CopyComplete
+D:\Rep\Dell\EKG\WinSCPPr\obj\Debug\WinSCPPr.exe
+D:\Rep\Dell\EKG\WinSCPPr\obj\Debug\WinSCPPr.pdb

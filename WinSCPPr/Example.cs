@@ -207,16 +207,16 @@ namespace WinSCPPr
 
         private static SessionOptions GetSessionOptions()
         {
-            var IP = ConfigurationManager.AppSettings["IP"];
-            var UserName = ConfigurationManager.AppSettings["UserName"];
-            var Password = ConfigurationManager.AppSettings["Password"];
-            var PrivateKeyPath = ConfigurationManager.AppSettings["PrivateKeyPath"];
-            var SshHostKeyFingerprint = ConfigurationManager.AppSettings["SshHostKeyFingerprint"];
+            string IP = ConfigurationManager.AppSettings["IP"];
+            string UserName = ConfigurationManager.AppSettings["UserName"];
+            string Password = ConfigurationManager.AppSettings["Password"];
+            string PrivateKeyPath = ConfigurationManager.AppSettings["PrivateKeyPath"];
+            string SshHostKeyFingerprint = ConfigurationManager.AppSettings["SshHostKeyFingerprint"];
             int Port = 22;
             int.TryParse(ConfigurationManager.AppSettings["Port"], out Port);
 
             Console.WriteLine($"IP:{IP}:{Port} => {UserName} / {new string('*', Password.Length)}");
-            return new SessionOptions
+            var result = new SessionOptions
             {
                 PortNumber = Port,
                 Protocol = Protocol.Sftp,
@@ -226,6 +226,7 @@ namespace WinSCPPr
                 SshHostKeyFingerprint = SshHostKeyFingerprint,
                 SshPrivateKeyPath = PrivateKeyPath,
             };
+            return result;
         }
     }
 }

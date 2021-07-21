@@ -4,7 +4,21 @@
     <projectFile>WinSCPPr/WinSCPPr.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a058d913-4e9a-45ae-a18e-31a8937d67c1" name="Default Changelist" comment="" />
+    <list default="true" id="a058d913-4e9a-45ae-a18e-31a8937d67c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/WinSCPPr/obj/Debug/WinSCPPr.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WinSCPPr/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WinSCPPr/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WinSCPPr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WinSCPPr/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinSCPPr/A.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WinSCPPr/A.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinSCPPr/Example.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WinSCPPr/Example.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinSCPPr/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WinSCPPr/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinSCPPr/bin/Debug/ProtectedConfig.config" beforeDir="false" afterPath="$PROJECT_DIR$/WinSCPPr/bin/Debug/ProtectedConfig.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinSCPPr/bin/Debug/WinSCPPr.exe" beforeDir="false" afterPath="$PROJECT_DIR$/WinSCPPr/bin/Debug/WinSCPPr.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinSCPPr/bin/Debug/WinSCPPr.exe.config" beforeDir="false" afterPath="$PROJECT_DIR$/WinSCPPr/bin/Debug/WinSCPPr.exe.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinSCPPr/bin/Debug/WinSCPPr.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WinSCPPr/bin/Debug/WinSCPPr.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinSCPPr/obj/Debug/WinSCPPr.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WinSCPPr/obj/Debug/WinSCPPr.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinSCPPr/obj/Debug/WinSCPPr.exe" beforeDir="false" afterPath="$PROJECT_DIR$/WinSCPPr/obj/Debug/WinSCPPr.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinSCPPr/obj/Debug/WinSCPPr.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WinSCPPr/obj/Debug/WinSCPPr.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,12 +35,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4854FA53-27F4-4FEE-8E48-9C156974045C/94/fc58f8f6/__Error.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WinSCPPr/App.config" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6885EDCB-A272-4282-9999-B2EB1C77114F/74/abc797b1/ConfigurationManager.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4854FA53-27F4-4FEE-8E48-9C156974045C/1d/6dbfa4bf/FileInfo.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4854FA53-27F4-4FEE-8E48-9C156974045C/33/87ea33f8/FileIOPermission.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4854FA53-27F4-4FEE-8E48-9C156974045C/03/5e9e6ce9/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinSCPPr/Example.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinSCPPr/ProtectedConfig.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinSCPPr/A.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinSCPPr/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinSCPPr/packages.config" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -37,13 +51,16 @@
         <option value="$PROJECT_DIR$/WinSCPPr/packages.config" />
         <option value="$PROJECT_DIR$/WinSCPPr/appSettings.config" />
         <option value="$PROJECT_DIR$/WinSCPPr/App.config" />
-        <option value="$PROJECT_DIR$/WinSCPPr/A.cs" />
         <option value="$PROJECT_DIR$/WinSCPPr/bin/Debug/WinSCPPr.exe.config" />
         <option value="$PROJECT_DIR$/WinSCPPr/bin/Debug/ProtectedConfig.config" />
-        <option value="$PROJECT_DIR$/WinSCPPr/Program.cs" />
+        <option value="$PROJECT_DIR$/WinSCPPr/A.cs" />
         <option value="$PROJECT_DIR$/WinSCPPr/Example.cs" />
+        <option value="$PROJECT_DIR$/WinSCPPr/Program.cs" />
       </list>
     </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="4m23vo0c" />
   </component>
   <component name="ProjectId" id="1v7a4xX0naaHEpdjYpZ217LWcUs" />
   <component name="ProjectViewState">
@@ -52,6 +69,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Config" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../winscp.5.19.1.nupkg" />
@@ -77,7 +95,10 @@
       </method>
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a058d913-4e9a-45ae-a18e-31a8937d67c1" name="Default Changelist" comment="" />
@@ -89,6 +110,7 @@
       <workItem from="1625920040493" duration="25161000" />
       <workItem from="1626016731947" duration="1997000" />
       <workItem from="1626018899866" duration="27000" />
+      <workItem from="1626888953811" duration="6004000" />
     </task>
     <servers />
   </component>
@@ -221,14 +243,7 @@
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/WinSCPPr/Example.cs</url>
           <line>182</line>
-          <properties documentPath="D:\Repository\WinSCPProject\WinSCPPr\WinSCPPr\Example.cs" initialLine="182">
-            <startOffsets>
-              <option value="6409" />
-            </startOffsets>
-            <endOffsets>
-              <option value="6427" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\Repository\WinSCPProject\WinSCPPr\WinSCPPr\Example.cs" initialLine="182" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
